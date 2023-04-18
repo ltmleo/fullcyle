@@ -28,3 +28,10 @@ https://fcexperience.fullcycle.com.br/desafio/fcls-desafio/desafio-docker
 ## Image
 - **name** leonardomontero/full-cycle-challange-docker:fase01
 - **size**: 1.23MB
+
+## Result
+
+```bash
+docker run leonardomontero/full-cycle-challange-docker:fase01
+Full Cycle Rocks!!
+```
